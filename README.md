@@ -1,17 +1,17 @@
 # ASMITHA_K_6220_NAANMUDHALVAN
 
-#PROJECT CREATED BY: ASMITHA K
+# PROJECT CREATED BY: ASMITHA K
 
-#LOGIN DETAILS:
+# LOGIN DETAILS:
 
-#USERNAME: admin
+USERNAME: admin
 
-#Password: admin123
+Password: admin123
 
-#Project Running steps:
+# Project Running steps:
 
-#python manage.py makemigrations
+python manage.py makemigrations
 
-#python manage.py migrate
+python manage.py migrate
 
-#python manage.py runserver
+python manage.py runserver
